@@ -40,3 +40,6 @@
 
 (def server-path "/servers")
 (def server-detail-path "/servers/detail")
+
+(def images-path "/v2/images")
+(def image-details-path "/v2/images/​%s")
