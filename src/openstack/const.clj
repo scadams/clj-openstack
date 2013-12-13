@@ -38,3 +38,5 @@
 
 (def server-path "/servers")
 (def server-detail-path "/servers/detail")
+
+(def get-host "http://fake.host.stub")
